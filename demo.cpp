@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    int age = 20;
-    string name = "jack";
+    int age = 23;
+    string name = "rushikesh";
     cout<<"\n"<<name;
     cout<<"age= "<<age;
     cout<<"\n"<<name;

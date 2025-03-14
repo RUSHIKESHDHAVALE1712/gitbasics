@@ -3,5 +3,6 @@ using namespace std;
 
 main()
 {
-    cout<<"app running";
+    cout<<"console input ";
+    cout<<"console output";
 }
